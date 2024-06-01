@@ -34,7 +34,7 @@ This is a simple weather website built using Express.js for backend, and HTML/CS
 - The website will display the current weather conditions for the specified area.
 
 ## Screenshots 
-![Screenshot1](screenshot2.png)
+![Screenshot1](screenshot.png)
 
 
 ## Technologies Used
